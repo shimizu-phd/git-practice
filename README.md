@@ -9,3 +9,4 @@ conflict-remoteで更新しました
 rebase-practiceで変更。
 rebase-conflict用
 mainで更新。conflict用
+pull rebaseようにリモートで更新。
