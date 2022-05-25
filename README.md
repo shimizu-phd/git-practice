@@ -7,4 +7,5 @@ conflictで変更しました。
 github上で更新しました。
 conflict-remoteで更新しました
 rebase-practiceで変更。
+rebase-conflict用
 mainで更新。conflict用
