@@ -12,3 +12,4 @@ mainで更新。conflict用
 pull rebaseようにリモートで更新。
 stashで練習中
 stash練習トラック済み
+stash変更(2nd)
